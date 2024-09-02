@@ -2,4 +2,4 @@
 
 
 
-[![Towhid  GitHub stats](https://github-readme-stats.vercel.app/api?username=Towhid)](https://github.com/Towhid/github-readme-stats)
+![Towhid GitHub stats](https://github-readme-stats.vercel.app/api?username=towhid&show_icons=true&theme=radical)
